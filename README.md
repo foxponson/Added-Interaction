@@ -23,3 +23,7 @@ Replaced header text w FoxPonson Established logo, official brand title
 New header logo scales w viewport
 Added animated fox around star in header, linear infinite, CS
 Changed & shortened About Me text, no mention of "UpWords Media", may make a return sometime in the future
+
+Java Features:
+Alert, welcoming text, event
+Background, starry overlay, animation
